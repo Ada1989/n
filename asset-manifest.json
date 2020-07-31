@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/note/static/js/main.20c7e18f.chunk.js",
+    "main.js.map": "/note/static/js/main.20c7e18f.chunk.js.map",
+    "runtime-main.js": "/note/static/js/runtime-main.49b98514.js",
+    "runtime-main.js.map": "/note/static/js/runtime-main.49b98514.js.map",
+    "static/js/2.86ce52dd.chunk.js": "/note/static/js/2.86ce52dd.chunk.js",
+    "static/js/2.86ce52dd.chunk.js.map": "/note/static/js/2.86ce52dd.chunk.js.map",
+    "index.html": "/note/index.html",
+    "precache-manifest.f48358555a8dacb07e96831dcd21fc19.js": "/note/precache-manifest.f48358555a8dacb07e96831dcd21fc19.js",
+    "service-worker.js": "/note/service-worker.js",
+    "static/js/2.86ce52dd.chunk.js.LICENSE.txt": "/note/static/js/2.86ce52dd.chunk.js.LICENSE.txt",
+    "static/media/iconmonstr-check-mark-2.svg": "/note/static/media/iconmonstr-check-mark-2.c720af74.svg",
+    "static/media/iconmonstr-pencil-9.svg": "/note/static/media/iconmonstr-pencil-9.aa72a69b.svg",
+    "static/media/iconmonstr-trash-can-1.svg": "/note/static/media/iconmonstr-trash-can-1.6375717a.svg",
+    "static/media/plus.svg": "/note/static/media/plus.e43ce6c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49b98514.js",
+    "static/js/2.86ce52dd.chunk.js",
+    "static/js/main.20c7e18f.chunk.js"
+  ]
+}
